@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theonejlove
+- 👀 I’m interested in web development and front-end engineering. I like to make things look pretty.
+- 🌱 I’m currently learning HTML/CSS and Python.
+- 💞️ I’m looking to collaborate on developing materials for gamers in the slow-life genre (i.e. Stardew, Harvest Moon, Sun Haven) or for TTRPGs.
+- 📫 How to reach me: send me an email at jjmloveland@gmail.com
